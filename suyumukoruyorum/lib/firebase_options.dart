@@ -40,50 +40,6 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBlUzQvujc931q9bFiM0t8zRy0hFTWG-k4',
-    appId: '1:283591184122:web:4027f9791af2afd5c00343',
-    messagingSenderId: '283591184122',
-    projectId: 'suyumukoruyorum',
-    authDomain: 'suyumukoruyorum.firebaseapp.com',
-    storageBucket: 'suyumukoruyorum.firebasestorage.app',
-    measurementId: 'G-6BYG0MGEEX',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBNsgbnd1A4j1m6Ry_29L3bPfMhvKyXyYA',
-    appId: '1:283591184122:ios:9b9e330b459d1209c00343',
-    messagingSenderId: '283591184122',
-    projectId: 'suyumukoruyorum',
-    storageBucket: 'suyumukoruyorum.firebasestorage.app',
-    iosBundleId: 'com.taihl.suyumukoruyorum',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBNsgbnd1A4j1m6Ry_29L3bPfMhvKyXyYA',
-    appId: '1:283591184122:ios:9b9e330b459d1209c00343',
-    messagingSenderId: '283591184122',
-    projectId: 'suyumukoruyorum',
-    storageBucket: 'suyumukoruyorum.firebasestorage.app',
-    iosBundleId: 'com.taihl.suyumukoruyorum',
-  );
-
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBlUzQvujc931q9bFiM0t8zRy0hFTWG-k4',
-    appId: '1:283591184122:web:c856230d525e9851c00343',
-    messagingSenderId: '283591184122',
-    projectId: 'suyumukoruyorum',
-    authDomain: 'suyumukoruyorum.firebaseapp.com',
-    storageBucket: 'suyumukoruyorum.firebasestorage.app',
-    measurementId: 'G-N9P83QY05M',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCiV8srBGuowrm8Mjwu1y50MlsQyP8b6zQ',
-    appId: '1:283591184122:android:b00e72134573993cc00343',
-    messagingSenderId: '283591184122',
-    projectId: 'suyumukoruyorum',
-    storageBucket: 'suyumukoruyorum.firebasestorage.app',
-  );
+  
 
 }
