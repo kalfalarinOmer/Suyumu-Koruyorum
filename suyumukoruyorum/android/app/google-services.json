@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283591184122",
+    "project_id": "suyumukoruyorum",
+    "storage_bucket": "suyumukoruyorum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283591184122:android:b00e72134573993cc00343",
+        "android_client_info": {
+          "package_name": "com.taihl.suyumukoruyorum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiV8srBGuowrm8Mjwu1y50MlsQyP8b6zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283591184122:android:282f0053553d2cccc00343",
+        "android_client_info": {
+          "package_name": "com.taihl.suyunukoru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiV8srBGuowrm8Mjwu1y50MlsQyP8b6zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
